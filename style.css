@@ -479,6 +479,7 @@ section{
     border-radius: 10px;
     background: var(--gradient-white-bg2);
     text-align: center;
+    height: 100%;
 }
 
 .icon-services{

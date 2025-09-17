@@ -284,7 +284,7 @@ section{
 .img-hero img{
     position: relative;
     width: 400px;
-    margin-top: 10%;
+    margin-top: 18%;
     height: auto;
     z-index: 10;
 }
@@ -315,7 +315,7 @@ section{
     content: "";
     position: absolute;
     inset: 20px;
-    background: #00aaff;
+    background: #fff;
     border-radius: 50%;
     z-index: 1;
 }
@@ -367,7 +367,7 @@ section{
 
 .about-img .ring{
     position: absolute;
-    top: 22%;
+
     right: 1%;
 }
 
